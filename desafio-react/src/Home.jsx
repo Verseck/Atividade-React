@@ -3,7 +3,7 @@ import Nav from "./components/Nav";
 import Newsletter from "./components/Newsletter";
 import Header from "./components/Header";
 import Seila from "./components/phytoterapica";
-import Details from "./components/details";
+import Details from "./components/Details";
 import Footer from "./components/Footer";
 
 function Home() {
